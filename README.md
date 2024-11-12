@@ -1,7 +1,7 @@
 
 #Para Este Projeto funcionar
 
-você vai precisar de um banco de dados rodando no seu sistema com nome pagina_recados e duas tabelas chamadas usuário e recados.
+Você vai precisar de um banco de dados rodando no seu sistema com nome pagina_recados e duas tabelas chamadas usuário e recados.
 Projeto onde uma pessoa loga no sistema e publica recados e ela pode ver os recados das outras pessoas postado.
 banco de dados pagina_recados
 tabela recados
